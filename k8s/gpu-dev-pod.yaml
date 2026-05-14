@@ -30,7 +30,7 @@ metadata:
   namespace: tandy-hpc
   labels:
     app: cuda-hello
-    user: CHANGE_TO_YOUR_NRP_USERNAME    # <-- edit this line
+    user: "494683"
 spec:
   restartPolicy: Never
   containers:
